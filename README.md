@@ -1,5 +1,5 @@
 - 👋 Hi, I’m anilreddygoguri
-- 🌱 I’m currently learning MERN Specializarion
+- 🌱 I’m currently learning MERN Specialization
 - 💞️ I’m currently working on ReactJS
 -  I’m looking for help with MERN Stack
 
